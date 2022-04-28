@@ -26,3 +26,4 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | [The Economics of VeChain](https://github.com/vechain/grant-program/blob/master/applications/the_economics_of_vechain.md) | Research | [Application](https://github.com/vechain/grant-program/blob/master/applications/the_economics_of_vechain.md) | $30,000 |
 |  [WorldOfV](https://github.com/vechain/grant-program/blob/master/applications/worldofv.md) | NFT Marketplace | [Website](https://worldofv.art) | $30,000 |
 | [vechain.energy](https://github.com/vechain/grant-program/blob/master/applications/vechain.energy.md) | Service | [Website in Testnet](https://testnet.vechain.energy/)  | $29,850 |
+| |
